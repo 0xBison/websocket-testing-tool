@@ -2,6 +2,8 @@
 
 A simple WebSocket testing tool built with Vue.js and DaisyUI.
 
+![Websocket Testing Tool UI](/screenshots/1.png)
+
 ## Features
 
 - Connect to multiple WebSocket endpoints simultaneously
